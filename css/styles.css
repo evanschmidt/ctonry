@@ -1764,28 +1764,94 @@ tr.selected td {
  * Adds styles for Christine Tonry
  *
  */
-/* line 11, ../sass/_ctonry.scss */
+/* line 8, ../sass/_ctonry.scss */
+#nice-menu-1 {
+  padding-left: 0;
+  padding-right: 0;
+  float: left;
+  width: 100%;
+  margin-left: 0%;
+  margin-right: -100%;
+}
+
+/* line 15, ../sass/_ctonry.scss */
+li:nth-child(1) {
+  float: left;
+  width: 14.28571%;
+  margin-left: 0%;
+  margin-right: -14.28571%;
+}
+
+/* line 18, ../sass/_ctonry.scss */
+li:nth-child(2) {
+  float: left;
+  width: 14.28571%;
+  margin-left: 14.28571%;
+  margin-right: -28.57143%;
+}
+
+/* line 21, ../sass/_ctonry.scss */
+li:nth-child(3) {
+  float: left;
+  width: 14.28571%;
+  margin-left: 28.57143%;
+  margin-right: -42.85714%;
+}
+
+/* line 24, ../sass/_ctonry.scss */
+li:nth-child(4) {
+  float: left;
+  width: 14.28571%;
+  margin-left: 42.85714%;
+  margin-right: -57.14286%;
+}
+
+/* line 27, ../sass/_ctonry.scss */
+li:nth-child(5) {
+  float: left;
+  width: 14.28571%;
+  margin-left: 57.14286%;
+  margin-right: -71.42857%;
+}
+
+/* line 30, ../sass/_ctonry.scss */
+li:nth-child(6) {
+  float: left;
+  width: 14.28571%;
+  margin-left: 71.42857%;
+  margin-right: -85.71429%;
+}
+
+/* line 33, ../sass/_ctonry.scss */
+li:nth-child(7) {
+  float: left;
+  width: 14.28571%;
+  margin-left: 85.71429%;
+  margin-right: -100%;
+}
+
+/* line 39, ../sass/_ctonry.scss */
 #block-nice-menus-1 ul li {
   border: none;
 }
-/* line 13, ../sass/_ctonry.scss */
+/* line 41, ../sass/_ctonry.scss */
 #block-nice-menus-1 ul li a {
   padding: 18px 0;
   text-align: center;
   text-decoration: none;
   font-size: 1.2em;
 }
-/* line 25, ../sass/_ctonry.scss */
+/* line 53, ../sass/_ctonry.scss */
 #block-nice-menus-1 ul.nice-menu ul {
   border: medium none;
   top: 3.8em;
 }
-/* line 29, ../sass/_ctonry.scss */
+/* line 57, ../sass/_ctonry.scss */
 #block-nice-menus-1 ul.nice-menu ul li {
   border: medium none;
 }
 
-/* line 34, ../sass/_ctonry.scss */
+/* line 62, ../sass/_ctonry.scss */
 #block-views-homepage-images-block .flexslider {
   background: none repeat scroll 0 0 transparent;
   border-left: 0 none;
@@ -1793,11 +1859,11 @@ tr.selected td {
   box-shadow: none;
   margin: 0;
 }
-/* line 41, ../sass/_ctonry.scss */
+/* line 69, ../sass/_ctonry.scss */
 #block-views-homepage-images-block .flex-direction-nav {
   *height: 0;
 }
-/* line 43, ../sass/_ctonry.scss */
+/* line 71, ../sass/_ctonry.scss */
 #block-views-homepage-images-block .flex-direction-nav a {
   display: block;
   width: 40px;
@@ -1815,58 +1881,58 @@ tr.selected td {
   -moz-transition: all .3s ease;
   transition: all .3s ease;
 }
-/* line 60, ../sass/_ctonry.scss */
+/* line 88, ../sass/_ctonry.scss */
 #block-views-homepage-images-block .flex-direction-nav .flex-prev {
   left: -50px;
 }
-/* line 63, ../sass/_ctonry.scss */
+/* line 91, ../sass/_ctonry.scss */
 #block-views-homepage-images-block .flex-direction-nav .flex-next {
   right: -50px;
   text-align: right;
 }
-/* line 68, ../sass/_ctonry.scss */
+/* line 96, ../sass/_ctonry.scss */
 #block-views-homepage-images-block .flexslider:hover .flex-prev {
   opacity: 0.7;
   left: 10px;
 }
-/* line 72, ../sass/_ctonry.scss */
+/* line 100, ../sass/_ctonry.scss */
 #block-views-homepage-images-block .flexslider:hover .flex-next {
   opacity: 0.7;
   right: 10px;
 }
-/* line 76, ../sass/_ctonry.scss */
+/* line 104, ../sass/_ctonry.scss */
 #block-views-homepage-images-block .flexslider:hover .flex-next:hover, #block-views-homepage-images-block .flexslider:hover .flex-prev:hover {
   opacity: 1;
 }
-/* line 80, ../sass/_ctonry.scss */
+/* line 108, ../sass/_ctonry.scss */
 #block-views-homepage-images-block .flex-direction-nav .flex-disabled {
   opacity: 0 !important;
   filter: alpha(opacity=0);
   cursor: default;
 }
-/* line 85, ../sass/_ctonry.scss */
+/* line 113, ../sass/_ctonry.scss */
 #block-views-homepage-images-block .flex-direction-nav a:before {
   font-family: "flexslider-icon";
   font-size: 20px;
   display: inline-block;
   content: '\f001';
 }
-/* line 91, ../sass/_ctonry.scss */
+/* line 119, ../sass/_ctonry.scss */
 #block-views-homepage-images-block .flex-direction-nav a.flex-next:before {
   content: '\f002';
 }
-/* line 95, ../sass/_ctonry.scss */
+/* line 123, ../sass/_ctonry.scss */
 #block-views-homepage-images-block .views-field-field-homepage-image-tagline {
   padding: 1em;
 }
-/* line 97, ../sass/_ctonry.scss */
+/* line 125, ../sass/_ctonry.scss */
 #block-views-homepage-images-block .views-field-field-homepage-image-tagline a {
   color: #fff;
   font-style: italic;
   padding-left: 1em;
 }
 
-/* line 105, ../sass/_ctonry.scss */
+/* line 133, ../sass/_ctonry.scss */
 .mean-container .mean-bar {
   background: none repeat scroll 0 0 transparent;
   float: left;
@@ -1876,18 +1942,18 @@ tr.selected td {
   width: 100%;
   z-index: 999999;
 }
-/* line 114, ../sass/_ctonry.scss */
+/* line 142, ../sass/_ctonry.scss */
 .mean-container a.meanmenu-reveal {
   z-index: 99;
 }
-/* line 117, ../sass/_ctonry.scss */
+/* line 145, ../sass/_ctonry.scss */
 .mean-container .mean-nav {
   background: none repeat scroll 0 0 transparent;
   float: left;
   margin-top: 33px;
   width: 100%;
 }
-/* line 122, ../sass/_ctonry.scss */
+/* line 150, ../sass/_ctonry.scss */
 .mean-container .mean-nav h2 {
   font-size: 1.5em;
   line-height: 1em;
@@ -1899,10 +1965,10 @@ tr.selected td {
   width: 100%;
 }
 
-/* line 135, ../sass/_ctonry.scss */
+/* line 163, ../sass/_ctonry.scss */
 .views-responsive-grid {
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 0;
+  padding-right: 0;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   -ms-box-sizing: border-box;
@@ -1919,24 +1985,24 @@ tr.selected td {
   clear: both;
 }
 
-/* line 139, ../sass/_ctonry.scss */
+/* line 167, ../sass/_ctonry.scss */
 .views-responsive-grid .views-row {
   clear: left;
 }
 
-/* line 142, ../sass/_ctonry.scss */
+/* line 170, ../sass/_ctonry.scss */
 .views-responsive-grid.views-columns-2 {
   padding-left: 0;
   padding-right: 0;
 }
-/* line 145, ../sass/_ctonry.scss */
+/* line 173, ../sass/_ctonry.scss */
 .views-responsive-grid.views-columns-2 .views-column-1 {
   float: left;
   width: 50%;
   margin-left: 0%;
   margin-right: -50%;
 }
-/* line 148, ../sass/_ctonry.scss */
+/* line 176, ../sass/_ctonry.scss */
 .views-responsive-grid.views-columns-2 .views-column-2 {
   float: left;
   width: 50%;
@@ -1944,26 +2010,26 @@ tr.selected td {
   margin-right: -100%;
 }
 
-/* line 152, ../sass/_ctonry.scss */
+/* line 180, ../sass/_ctonry.scss */
 .views-responsive-grid.views-columns-3 {
   padding-left: 0;
   padding-right: 0;
 }
-/* line 155, ../sass/_ctonry.scss */
+/* line 183, ../sass/_ctonry.scss */
 .views-responsive-grid.views-columns-3 .views-column-1 {
   float: left;
   width: 33.33333%;
   margin-left: 0%;
   margin-right: -33.33333%;
 }
-/* line 158, ../sass/_ctonry.scss */
+/* line 186, ../sass/_ctonry.scss */
 .views-responsive-grid.views-columns-3 .views-column-2 {
   float: left;
   width: 33.33333%;
   margin-left: 33.33333%;
   margin-right: -66.66667%;
 }
-/* line 161, ../sass/_ctonry.scss */
+/* line 189, ../sass/_ctonry.scss */
 .views-responsive-grid.views-columns-3 .views-column-3 {
   float: left;
   width: 33.33333%;
@@ -1971,33 +2037,33 @@ tr.selected td {
   margin-right: -100%;
 }
 
-/* line 165, ../sass/_ctonry.scss */
+/* line 193, ../sass/_ctonry.scss */
 .views-responsive-grid.views-columns-4 {
   padding-left: 0;
   padding-right: 0;
 }
-/* line 169, ../sass/_ctonry.scss */
+/* line 197, ../sass/_ctonry.scss */
 .views-responsive-grid.views-columns-4 .views-column-1 {
   float: left;
   width: 25%;
   margin-left: 0%;
   margin-right: -25%;
 }
-/* line 172, ../sass/_ctonry.scss */
+/* line 200, ../sass/_ctonry.scss */
 .views-responsive-grid.views-columns-4 .views-column-2 {
   float: left;
   width: 25%;
   margin-left: 25%;
   margin-right: -50%;
 }
-/* line 175, ../sass/_ctonry.scss */
+/* line 203, ../sass/_ctonry.scss */
 .views-responsive-grid.views-columns-4 .views-column-3 {
   float: left;
   width: 25%;
   margin-left: 50%;
   margin-right: -75%;
 }
-/* line 178, ../sass/_ctonry.scss */
+/* line 206, ../sass/_ctonry.scss */
 .views-responsive-grid.views-columns-4 .views-column-4 {
   float: left;
   width: 25%;
