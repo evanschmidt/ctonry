@@ -1765,6 +1765,11 @@ tr.selected td {
  *
  */
 /* line 8, ../sass/_ctonry.scss */
+.front h1 {
+  display: none;
+}
+
+/* line 11, ../sass/_ctonry.scss */
 #nice-menu-1 {
   padding-left: 0;
   padding-right: 0;
@@ -1773,35 +1778,35 @@ tr.selected td {
   margin-left: 0%;
   margin-right: -100%;
 }
-/* line 14, ../sass/_ctonry.scss */
+/* line 17, ../sass/_ctonry.scss */
 #nice-menu-1 li:nth-child(1) {
   float: left;
   width: 20%;
   margin-left: 0%;
   margin-right: -20%;
 }
-/* line 17, ../sass/_ctonry.scss */
+/* line 20, ../sass/_ctonry.scss */
 #nice-menu-1 li:nth-child(2) {
   float: left;
   width: 20%;
   margin-left: 20%;
   margin-right: -40%;
 }
-/* line 20, ../sass/_ctonry.scss */
+/* line 23, ../sass/_ctonry.scss */
 #nice-menu-1 li:nth-child(3) {
   float: left;
   width: 20%;
   margin-left: 40%;
   margin-right: -60%;
 }
-/* line 23, ../sass/_ctonry.scss */
+/* line 26, ../sass/_ctonry.scss */
 #nice-menu-1 li:nth-child(4) {
   float: left;
   width: 20%;
   margin-left: 60%;
   margin-right: -80%;
 }
-/* line 26, ../sass/_ctonry.scss */
+/* line 29, ../sass/_ctonry.scss */
 #nice-menu-1 li:nth-child(5) {
   float: left;
   width: 20%;
@@ -1809,28 +1814,28 @@ tr.selected td {
   margin-right: -100%;
 }
 
-/* line 33, ../sass/_ctonry.scss */
+/* line 36, ../sass/_ctonry.scss */
 #block-nice-menus-1 ul li {
   border: none;
 }
-/* line 35, ../sass/_ctonry.scss */
+/* line 38, ../sass/_ctonry.scss */
 #block-nice-menus-1 ul li a {
   padding: 18px 0;
   text-align: center;
   text-decoration: none;
   font-size: 1.2em;
 }
-/* line 47, ../sass/_ctonry.scss */
+/* line 50, ../sass/_ctonry.scss */
 #block-nice-menus-1 ul.nice-menu ul {
   border: medium none;
   top: 3.8em;
 }
-/* line 51, ../sass/_ctonry.scss */
+/* line 54, ../sass/_ctonry.scss */
 #block-nice-menus-1 ul.nice-menu ul li {
   border: medium none;
 }
 
-/* line 56, ../sass/_ctonry.scss */
+/* line 59, ../sass/_ctonry.scss */
 #block-views-homepage-images-block .flexslider {
   background: none repeat scroll 0 0 transparent;
   border-left: 0 none;
@@ -1838,11 +1843,11 @@ tr.selected td {
   box-shadow: none;
   margin: 0;
 }
-/* line 63, ../sass/_ctonry.scss */
+/* line 66, ../sass/_ctonry.scss */
 #block-views-homepage-images-block .flex-direction-nav {
   *height: 0;
 }
-/* line 65, ../sass/_ctonry.scss */
+/* line 68, ../sass/_ctonry.scss */
 #block-views-homepage-images-block .flex-direction-nav a {
   display: block;
   width: 40px;
@@ -1860,58 +1865,58 @@ tr.selected td {
   -moz-transition: all .3s ease;
   transition: all .3s ease;
 }
-/* line 82, ../sass/_ctonry.scss */
+/* line 85, ../sass/_ctonry.scss */
 #block-views-homepage-images-block .flex-direction-nav .flex-prev {
   left: -50px;
 }
-/* line 85, ../sass/_ctonry.scss */
+/* line 88, ../sass/_ctonry.scss */
 #block-views-homepage-images-block .flex-direction-nav .flex-next {
   right: -50px;
   text-align: right;
 }
-/* line 90, ../sass/_ctonry.scss */
+/* line 93, ../sass/_ctonry.scss */
 #block-views-homepage-images-block .flexslider:hover .flex-prev {
   opacity: 0.7;
   left: 10px;
 }
-/* line 94, ../sass/_ctonry.scss */
+/* line 97, ../sass/_ctonry.scss */
 #block-views-homepage-images-block .flexslider:hover .flex-next {
   opacity: 0.7;
   right: 10px;
 }
-/* line 98, ../sass/_ctonry.scss */
+/* line 101, ../sass/_ctonry.scss */
 #block-views-homepage-images-block .flexslider:hover .flex-next:hover, #block-views-homepage-images-block .flexslider:hover .flex-prev:hover {
   opacity: 1;
 }
-/* line 102, ../sass/_ctonry.scss */
+/* line 105, ../sass/_ctonry.scss */
 #block-views-homepage-images-block .flex-direction-nav .flex-disabled {
   opacity: 0 !important;
   filter: alpha(opacity=0);
   cursor: default;
 }
-/* line 107, ../sass/_ctonry.scss */
+/* line 110, ../sass/_ctonry.scss */
 #block-views-homepage-images-block .flex-direction-nav a:before {
   font-family: "flexslider-icon";
   font-size: 20px;
   display: inline-block;
   content: '\f001';
 }
-/* line 113, ../sass/_ctonry.scss */
+/* line 116, ../sass/_ctonry.scss */
 #block-views-homepage-images-block .flex-direction-nav a.flex-next:before {
   content: '\f002';
 }
-/* line 117, ../sass/_ctonry.scss */
+/* line 120, ../sass/_ctonry.scss */
 #block-views-homepage-images-block .views-field-field-homepage-image-tagline {
   padding: 1em;
 }
-/* line 119, ../sass/_ctonry.scss */
+/* line 122, ../sass/_ctonry.scss */
 #block-views-homepage-images-block .views-field-field-homepage-image-tagline a {
   color: #fff;
   font-style: italic;
   padding-left: 1em;
 }
 
-/* line 127, ../sass/_ctonry.scss */
+/* line 130, ../sass/_ctonry.scss */
 .mean-container .mean-bar {
   background: none repeat scroll 0 0 transparent;
   float: left;
@@ -1921,18 +1926,18 @@ tr.selected td {
   width: 100%;
   z-index: 999999;
 }
-/* line 136, ../sass/_ctonry.scss */
+/* line 139, ../sass/_ctonry.scss */
 .mean-container a.meanmenu-reveal {
   z-index: 99;
 }
-/* line 139, ../sass/_ctonry.scss */
+/* line 142, ../sass/_ctonry.scss */
 .mean-container .mean-nav {
   background: none repeat scroll 0 0 transparent;
   float: left;
   margin-top: 33px;
   width: 100%;
 }
-/* line 144, ../sass/_ctonry.scss */
+/* line 147, ../sass/_ctonry.scss */
 .mean-container .mean-nav h2 {
   font-size: 1.5em;
   line-height: 1em;
@@ -1944,7 +1949,7 @@ tr.selected td {
   width: 100%;
 }
 
-/* line 157, ../sass/_ctonry.scss */
+/* line 160, ../sass/_ctonry.scss */
 .views-responsive-grid {
   padding-left: 0;
   padding-right: 0;
@@ -1964,24 +1969,24 @@ tr.selected td {
   clear: both;
 }
 
-/* line 161, ../sass/_ctonry.scss */
+/* line 164, ../sass/_ctonry.scss */
 .views-responsive-grid .views-row {
   clear: left;
 }
 
-/* line 164, ../sass/_ctonry.scss */
+/* line 167, ../sass/_ctonry.scss */
 .views-responsive-grid.views-columns-2 {
   padding-left: 0;
   padding-right: 0;
 }
-/* line 167, ../sass/_ctonry.scss */
+/* line 170, ../sass/_ctonry.scss */
 .views-responsive-grid.views-columns-2 .views-column-1 {
   float: left;
   width: 50%;
   margin-left: 0%;
   margin-right: -50%;
 }
-/* line 170, ../sass/_ctonry.scss */
+/* line 173, ../sass/_ctonry.scss */
 .views-responsive-grid.views-columns-2 .views-column-2 {
   float: left;
   width: 50%;
@@ -1989,26 +1994,26 @@ tr.selected td {
   margin-right: -100%;
 }
 
-/* line 174, ../sass/_ctonry.scss */
+/* line 177, ../sass/_ctonry.scss */
 .views-responsive-grid.views-columns-3 {
   padding-left: 0;
   padding-right: 0;
 }
-/* line 177, ../sass/_ctonry.scss */
+/* line 180, ../sass/_ctonry.scss */
 .views-responsive-grid.views-columns-3 .views-column-1 {
   float: left;
   width: 33.33333%;
   margin-left: 0%;
   margin-right: -33.33333%;
 }
-/* line 180, ../sass/_ctonry.scss */
+/* line 183, ../sass/_ctonry.scss */
 .views-responsive-grid.views-columns-3 .views-column-2 {
   float: left;
   width: 33.33333%;
   margin-left: 33.33333%;
   margin-right: -66.66667%;
 }
-/* line 183, ../sass/_ctonry.scss */
+/* line 186, ../sass/_ctonry.scss */
 .views-responsive-grid.views-columns-3 .views-column-3 {
   float: left;
   width: 33.33333%;
@@ -2016,33 +2021,33 @@ tr.selected td {
   margin-right: -100%;
 }
 
-/* line 187, ../sass/_ctonry.scss */
+/* line 190, ../sass/_ctonry.scss */
 .views-responsive-grid.views-columns-4 {
   padding-left: 0;
   padding-right: 0;
 }
-/* line 191, ../sass/_ctonry.scss */
+/* line 194, ../sass/_ctonry.scss */
 .views-responsive-grid.views-columns-4 .views-column-1 {
   float: left;
   width: 25%;
   margin-left: 0%;
   margin-right: -25%;
 }
-/* line 194, ../sass/_ctonry.scss */
+/* line 197, ../sass/_ctonry.scss */
 .views-responsive-grid.views-columns-4 .views-column-2 {
   float: left;
   width: 25%;
   margin-left: 25%;
   margin-right: -50%;
 }
-/* line 197, ../sass/_ctonry.scss */
+/* line 200, ../sass/_ctonry.scss */
 .views-responsive-grid.views-columns-4 .views-column-3 {
   float: left;
   width: 25%;
   margin-left: 50%;
   margin-right: -75%;
 }
-/* line 200, ../sass/_ctonry.scss */
+/* line 203, ../sass/_ctonry.scss */
 .views-responsive-grid.views-columns-4 .views-column-4 {
   float: left;
   width: 25%;
