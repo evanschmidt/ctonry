@@ -1765,7 +1765,7 @@ tr.selected td {
  *
  */
 /* line 8, ../sass/_ctonry.scss */
-.front h1.page-title {
+.front h1#page-title {
   display: none;
 }
 
