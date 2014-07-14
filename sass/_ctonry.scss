@@ -45,7 +45,7 @@
   $zen-column-count: 10;
   $zen-gutter-width:  0;
   @include zen-nested-container();
-  @include zen-grid-item(5, 1);
+  @include zen-grid-item(10, 1);
   @include zen-grid-background();
   li:nth-child(1) {
     @include zen-grid-item(1, 1);
