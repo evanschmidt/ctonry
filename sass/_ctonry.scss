@@ -17,6 +17,10 @@
  .front h1#page-title {
   display: none;
  }
+ .header__site-name {
+    font-size: 3em;
+    line-height: 1.5em;
+}
 #nice-menu-1 {
   $zen-column-count: 5;
   $zen-gutter-width:  0;
