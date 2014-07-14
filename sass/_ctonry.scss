@@ -85,8 +85,7 @@
 #block-views-homepage-images-block {
   .flexslider {
     background: none repeat scroll 0 0 transparent;
-    border-left: 0 none;
-    border-right: 0 none;
+    border: medium none;
     box-shadow: none;
     //margin: 0;
   }
@@ -136,7 +135,7 @@
   }
   a:before {
     font-family: "flexslider-icon";
-    font-size: 20px;
+//    font-size: 20px;
     display: inline-block;
     content: '\f001';
   }
