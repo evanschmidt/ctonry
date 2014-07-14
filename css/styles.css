@@ -1823,44 +1823,44 @@ body {
   padding-left: 0;
   padding-right: 0;
   float: left;
-  width: 100%;
+  width: 50%;
   margin-left: 0%;
-  margin-right: -100%;
+  margin-right: -50%;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\0000350}}
 #nice-menu-1 li:nth-child(1) {
   float: left;
-  width: 20%;
+  width: 10%;
   margin-left: 0%;
-  margin-right: -20%;
+  margin-right: -10%;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\0000353}}
 #nice-menu-1 li:nth-child(2) {
   float: left;
-  width: 20%;
-  margin-left: 20%;
-  margin-right: -40%;
+  width: 10%;
+  margin-left: 10%;
+  margin-right: -20%;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\0000356}}
 #nice-menu-1 li:nth-child(3) {
   float: left;
-  width: 20%;
-  margin-left: 40%;
-  margin-right: -60%;
+  width: 10%;
+  margin-left: 20%;
+  margin-right: -30%;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\0000359}}
 #nice-menu-1 li:nth-child(4) {
   float: left;
-  width: 20%;
-  margin-left: 60%;
-  margin-right: -80%;
+  width: 10%;
+  margin-left: 30%;
+  margin-right: -40%;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\0000362}}
 #nice-menu-1 li:nth-child(5) {
   float: left;
-  width: 20%;
-  margin-left: 80%;
-  margin-right: -100%;
+  width: 10%;
+  margin-left: 40%;
+  margin-right: -50%;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\0000368}}
