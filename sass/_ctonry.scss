@@ -18,14 +18,17 @@
   display: none;
  }
  .header__site-name {
-    font-size: 3em;
+    font-size: 5em;
     line-height: 1.5em;
+    text-align: center;
+    text-transform: lowercase;
     a:hover {
       text-decoration: none;
     }
 }
 .header__site-slogan {
     margin: 0 0 1em;
+    text-align: center;
 }
 #nice-menu-1 {
   $zen-column-count: 5;
