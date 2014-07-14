@@ -1874,7 +1874,7 @@ body {
   font-size: 1.2em;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\0000375}}
-#block-nice-menus-1 ul li a:hover {
+#block-nice-menus-1 ul li a.active, #block-nice-menus-1 ul li a:hover {
   color: #FF0000;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\0000384}}
