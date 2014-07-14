@@ -99,9 +99,12 @@
       text-align: left;
     }
   }
-ul.nice-menu-down li.menuparent {
-    background: none;
-}
+  ul.nice-menu-down li.menuparent {
+      background: none;
+  }
+  ul.nice-menu-down li.menuparent:hover {
+    background: none repeat scroll 0 0 #fff;
+  }
 }
 #block-views-homepage-images-block {
   .flexslider {
