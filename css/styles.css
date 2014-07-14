@@ -1878,12 +1878,16 @@ body {
 #block-nice-menus-1 ul li a.active, #block-nice-menus-1 ul li a:hover {
   color: #FF0000;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\0000385}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\0000380}}
+#block-nice-menus-1 ul li:hover {
+  background: none repeat scroll 0 0 #fff;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\0000388}}
 #block-nice-menus-1 ul.nice-menu ul {
   border: medium none;
   top: 2.25em;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\0000389}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\0000392}}
 #block-nice-menus-1 ul.nice-menu ul li {
   background: none repeat scroll 0 0 #fff;
   border: medium none;
@@ -1891,27 +1895,27 @@ body {
   padding-left: 0;
   width: 12em;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\0000395}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\0000398}}
 #block-nice-menus-1 ul.nice-menu ul li a {
   text-align: left;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\0000399}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003102}}
 #block-nice-menus-1 ul.nice-menu-down li.menuparent {
   background: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003104}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003107}}
 #block-views-homepage-images-block .flexslider {
   background: none repeat scroll 0 0 transparent;
   border-left: 0 none;
   border-right: 0 none;
   box-shadow: none;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003111}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003114}}
 #block-views-homepage-images-block .flex-direction-nav {
   *height: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003113}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003116}}
 #block-views-homepage-images-block .flex-direction-nav a {
   display: block;
   width: 40px;
@@ -1929,62 +1933,62 @@ body {
   -moz-transition: all .3s ease;
   transition: all .3s ease;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003130}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003133}}
 #block-views-homepage-images-block .flex-direction-nav .flex-prev {
   left: -50px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003133}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003136}}
 #block-views-homepage-images-block .flex-direction-nav .flex-next {
   right: -50px;
   text-align: right;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003138}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003141}}
 #block-views-homepage-images-block .flexslider:hover .flex-prev {
   opacity: 0.7;
   left: 10px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003142}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003145}}
 #block-views-homepage-images-block .flexslider:hover .flex-next {
   opacity: 0.7;
   right: 10px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003146}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003149}}
 #block-views-homepage-images-block .flexslider:hover .flex-next:hover, #block-views-homepage-images-block .flexslider:hover .flex-prev:hover {
   opacity: 1;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003150}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003153}}
 #block-views-homepage-images-block .flex-direction-nav .flex-disabled {
   opacity: 0 !important;
   filter: alpha(opacity=0);
   cursor: default;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003155}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003158}}
 #block-views-homepage-images-block .flex-direction-nav a:before {
   font-family: "flexslider-icon";
   font-size: 20px;
   display: inline-block;
   content: '\f001';
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003161}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003164}}
 #block-views-homepage-images-block .flex-direction-nav a.flex-next:before {
   content: '\f002';
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003165}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003168}}
 #block-views-homepage-images-block .views-field-field-homepage-image-tagline {
   padding: 1em;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003167}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003170}}
 #block-views-homepage-images-block .views-field-field-homepage-image-tagline a {
   color: #fff;
   font-style: italic;
   padding-left: 1em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003174}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003177}}
 .mean-container {
   color: #FFFFFF;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003176}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003179}}
 .mean-container .mean-bar {
   background: none repeat scroll 0 0 #000000;
   float: left;
@@ -1994,18 +1998,18 @@ body {
   width: 100%;
   z-index: 999999;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003185}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003188}}
 .mean-container a.meanmenu-reveal {
   z-index: 99;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003188}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003191}}
 .mean-container .mean-nav {
   background: none repeat scroll 0 0 #000000;
   float: left;
   margin-top: 33px;
   width: 100%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003193}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003196}}
 .mean-container .mean-nav h2 {
   font-size: 1.5em;
   line-height: 1em;
@@ -2017,22 +2021,22 @@ body {
   width: 100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003206}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003209}}
 #block-views-resume-block table {
   width: 100%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003208}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003211}}
 #block-views-resume-block table caption {
   margin: 1em;
   font-size: 1.5em;
   font-weight: bold;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003214}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003217}}
 #block-views-resume-block .views-field-title {
   padding: 1em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003222}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003225}}
 .views-responsive-grid {
   padding-left: 0;
   padding-right: 0;
@@ -2052,24 +2056,24 @@ body {
   clear: both;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003226}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003229}}
 .views-responsive-grid .views-row {
   clear: left;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003229}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003232}}
 .views-responsive-grid.views-columns-2 {
   padding-left: 0;
   padding-right: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003232}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003235}}
 .views-responsive-grid.views-columns-2 .views-column-1 {
   float: left;
   width: 50%;
   margin-left: 0%;
   margin-right: -50%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003235}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003238}}
 .views-responsive-grid.views-columns-2 .views-column-2 {
   float: left;
   width: 50%;
@@ -2077,26 +2081,26 @@ body {
   margin-right: -100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003239}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003242}}
 .views-responsive-grid.views-columns-3 {
   padding-left: 0;
   padding-right: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003242}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003245}}
 .views-responsive-grid.views-columns-3 .views-column-1 {
   float: left;
   width: 33.33333%;
   margin-left: 0%;
   margin-right: -33.33333%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003245}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003248}}
 .views-responsive-grid.views-columns-3 .views-column-2 {
   float: left;
   width: 33.33333%;
   margin-left: 33.33333%;
   margin-right: -66.66667%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003248}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003251}}
 .views-responsive-grid.views-columns-3 .views-column-3 {
   float: left;
   width: 33.33333%;
@@ -2104,33 +2108,33 @@ body {
   margin-right: -100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003252}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003255}}
 .views-responsive-grid.views-columns-4 {
   padding-left: 0;
   padding-right: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003256}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003259}}
 .views-responsive-grid.views-columns-4 .views-column-1 {
   float: left;
   width: 25%;
   margin-left: 0%;
   margin-right: -25%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003259}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003262}}
 .views-responsive-grid.views-columns-4 .views-column-2 {
   float: left;
   width: 25%;
   margin-left: 25%;
   margin-right: -50%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003262}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003265}}
 .views-responsive-grid.views-columns-4 .views-column-3 {
   float: left;
   width: 25%;
   margin-left: 50%;
   margin-right: -75%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003265}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\00003268}}
 .views-responsive-grid.views-columns-4 .views-column-4 {
   float: left;
   width: 25%;
