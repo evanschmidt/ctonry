@@ -637,7 +637,7 @@ table {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/layouts\/_responsive\.scss}line{font-family:\0000360}}
   #main {
     /* Move all the children of #main down to make room. */
-    padding-top: 2.25em;
+    padding-top: 3.5em;
     position: relative;
   }
 
@@ -646,7 +646,7 @@ table {
     /* Move the navbar up inside #main's padding. */
     position: absolute;
     top: 0;
-    height: 2.25em;
+    height: 3.5em;
     width: 100%;
   }
 }
