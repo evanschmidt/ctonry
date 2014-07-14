@@ -154,9 +154,9 @@
   }
 }
 .mean-container {
-  color: #FFFFFF;
   .mean-bar {
     background: none repeat scroll 0 0 #000000;
+    color: #FFFFFF;
     float: left;
     min-height: 42px;
     padding: 4px 0;
@@ -169,6 +169,7 @@
   }
   .mean-nav {
     background: none repeat scroll 0 0 #000000;
+    color: #FFFFFF;
     float: left;
     margin-top: 33px;
     width: 100%;
