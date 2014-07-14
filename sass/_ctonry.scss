@@ -42,10 +42,10 @@
   }
 }
 #nice-menu-1 {
-  $zen-column-count: 10;
+  $zen-column-count: 9;
   $zen-gutter-width:  0;
   @include zen-nested-container();
-  @include zen-grid-item(10, 1);
+  @include zen-grid-item(9, 1);
   @include zen-grid-background();
   li:nth-child(1) {
     @include zen-grid-item(1, 3);
