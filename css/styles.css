@@ -637,7 +637,7 @@ table {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/layouts\/_responsive\.scss}line{font-family:\0000360}}
   #main {
     /* Move all the children of #main down to make room. */
-    padding-top: 3.5em;
+    padding-top: 4em;
     position: relative;
   }
 
@@ -646,7 +646,7 @@ table {
     /* Move the navbar up inside #main's padding. */
     position: absolute;
     top: 0;
-    height: 3.5em;
+    height: 4em;
     width: 100%;
   }
 }
@@ -1881,7 +1881,6 @@ body {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\0000387}}
 #block-nice-menus-1 ul.nice-menu ul {
   border: medium none;
-  top: 2.25em;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/websites\/CullenTonry\/drupal\/sites\/all\/themes\/ctonry\/sass\/_ctonry\.scss}line{font-family:\0000391}}
 #block-nice-menus-1 ul.nice-menu ul li {
