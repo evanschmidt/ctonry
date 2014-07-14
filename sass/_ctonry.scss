@@ -67,8 +67,6 @@
     li {
       border: none;
       a {
-        padding: 18px 0;
-        text-align: center;
         text-decoration: none;
         font-size: 1.2em;
       }
@@ -91,6 +89,9 @@
       text-align: left;
     }
   }
+ul.nice-menu-down li.menuparent {
+    background: none;
+}
 }
 #block-views-homepage-images-block {
   .flexslider {
