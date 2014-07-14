@@ -20,6 +20,9 @@
  .header__site-name {
     font-size: 3em;
     line-height: 1.5em;
+    a:hover {
+      text-decoration: none;
+    }
 }
 #nice-menu-1 {
   $zen-column-count: 5;
